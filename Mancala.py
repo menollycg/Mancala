@@ -1,6 +1,3 @@
-# Author: Elizabeth Ward
-# GitHub username: menollycg
-# Date: December 4, 2022
 # Description: A program that allows 2 players to play a text-based version of the game Mancala.
 
 class Mancala:
